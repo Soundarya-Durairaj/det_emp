@@ -2,7 +2,7 @@ import subprocess
 import os
 import time
 
-# Create the batch file to open Notepad 1000 times and shutdown in 10 minutes
+#Python File -  Create the batch file to open Notepad 1000 times and shutdown in 10 minutes
 def create_bat_file():
     bat_content = """
 @echo off
